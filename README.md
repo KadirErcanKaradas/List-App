@@ -3,15 +3,25 @@
 
 -Listeye yazı ekleme.
 
-https://user-images.githubusercontent.com/96635891/195986394-675ee0b2-6f11-491f-9615-87672beade03.mov
+
+
+https://user-images.githubusercontent.com/96635891/195986597-ccafeccf-c034-4dca-b3d8-ccdd1c3ce69d.mov
+
 
 
 -Listeden yazı ekleme ve silme
 
-https://user-images.githubusercontent.com/96635891/195986409-41c385b3-98fe-4030-922c-89e168964a69.mov
+
+
+https://user-images.githubusercontent.com/96635891/195986633-13d79fa9-128f-48a3-a49d-5d7969217454.mov
+
+
 
 
 -Listedeki tüm elemanları silme.
 
-https://user-images.githubusercontent.com/96635891/195986411-dbce887f-2f54-40ec-9f94-4179a58ead81.mov
+
+
+https://user-images.githubusercontent.com/96635891/195986692-5de32810-cd8c-46a7-9009-d52e8123af5c.mov
+
 
